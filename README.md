@@ -19,14 +19,13 @@
 </p> 
 
 <p align="center">
-  <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img width="250" align="right" src="https://tenor.com/bN65M.gif">
 </p>
 
 - 🏢 I'm a Software Engineer and Technical Community Manager.
 - 👨‍💻 As a developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at [ahmedalbardisi.com](https://ahmedalbardisi.com) to see some of the projects I've worked on.
 
 ### Connect with Me:
 
