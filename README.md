@@ -19,7 +19,7 @@
 </p> 
 
 <p align="center">
-  <img width="250" align="right" src="https://tenor.com/bN65M.gif">
+  <img width="250" align="right" src="https://tenor.com/view/coding-gif-24297652">
 </p>
 
 - 🏢 I'm a Software Engineer and Technical Community Manager.
