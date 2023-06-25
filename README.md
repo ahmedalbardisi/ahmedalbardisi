@@ -53,3 +53,6 @@
 <a href="https://komarev.com/ghpvc/?username=ahmedalbardisi&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=ahmedalbardisi&style=for-the-badge">
 </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+</p>
